@@ -7,6 +7,11 @@
 - 🎯 Interests: All fields in tech: in particular software engineering, AI and ML, as well as  cybersecurity.
 
 ---
+## Experience
+**💻 Fullstack Web Development Intern: July 2025 - August 2025 (2 Months)**
+  - Adapted Figma designs into responsive webpages using HTML, CSS, and JavaScript along with the BootStrap framework.
+  - Learned and used the MVC architecture with .NET EFCore.
+---
 
 ## Technical Skills
 

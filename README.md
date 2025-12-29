@@ -10,14 +10,36 @@
 
 ## Technical Skills
 
-**Some Programming Languages I Know**
+**Programming Languages**
 - C++
 - C#
 - Python
 - MatLab
 - MIPS Assembly
 
+**Frontend Technologies**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Windows Forms
 
+**Backend Technologies**
+- .NET EFCore
+- Django
+
+**Tools and Platforms**
+- Git
+- GitHub
+- Mars
+
+**Desgin**
+- Design Class Diagrams
+- Acticvity Diagrams
+- Data Flow Diagrams
+- State Diagrams
+- Sequence Diagrams
+- Use Case Diagrams
 ---
 
 ## Connect With Me

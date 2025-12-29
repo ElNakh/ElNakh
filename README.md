@@ -6,9 +6,9 @@
 - 🌍 Location: Jeita, Lebanon
 - 🎯 Interests: All fields in tech: in particular software engineering, AI and ML, as well as  cybersecurity.
 - 🗣️ Languages:
-      - English: Fluent
-      - Arabic:  Fluent
-      - French:  Beginner
+      1. English: Fluent
+      2. Arabic:  Fluent
+      3. French:  Beginner
 
 ---
 ## Experience

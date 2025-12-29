@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**ElNakh/ElNakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- 💼 Role: Computer Science Student
+- 🌍 Location: Jeita, Lebanon
+- 🎯 Interests: All fields in tech: in particular software engineering, AI and ML, as well as  cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Some Programming Languages I Know**
+- <C++>
+- <.NET>
+- <Python>
+- <MatLab>
+- <MIPS Assembly>
+
+
+---
+
+## Connect With Me
+- 💼 LinkedIn: <[URL](https://www.linkedin.com/in/eligio-nakhoul/)>
+
+

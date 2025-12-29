@@ -11,11 +11,11 @@
 ## Technical Skills
 
 **Some Programming Languages I Know**
-- <C++>
-- <.NET>
-- <Python>
-- <MatLab>
-- <MIPS Assembly>
+- C++
+- C#
+- Python
+- MatLab
+- MIPS Assembly
 
 
 ---

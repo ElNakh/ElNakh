@@ -21,6 +21,6 @@
 ---
 
 ## Connect With Me
-- 💼 LinkedIn: <[URL](https://www.linkedin.com/in/eligio-nakhoul/)>
+- 💼 LinkedIn: <[linkedin.com/in/eligio-nakhoul](https://www.linkedin.com/in/eligio-nakhoul/)>
 
 
